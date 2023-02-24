@@ -10,6 +10,7 @@ public class Main {
 
         System.out.println("Hello word againnndirectly in and more main");
         System.out.println("Hello word againnndirectly in and more more main");
+        System.out.println("Hello word againnndirectly in and more more 1111 main");
 
 
     }
