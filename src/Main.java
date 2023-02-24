@@ -9,6 +9,7 @@ public class Main {
         System.out.println("brnahc 2 Hello word againnndirectly in main");
 
         System.out.println("Hello word againnndirectly in and more main");
+        System.out.println("Hello word againnndirectly in and more more main");
 
 
     }
